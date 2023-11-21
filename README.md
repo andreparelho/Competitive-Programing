@@ -20,10 +20,11 @@ Ao utilizar este repositório, espero alcançar os seguintes objetivos:
 4. Aumentar minha confiança como programador através de prática constante.
 5. Desenvolver habilidades de colaboração através da revisão e discussão de soluções com outros membros do clube.
 
-## Nome da Plataforma
+## BeeCrowd (URI)
 
 | Nome do Exercício (Link da Pasta no Github)                                         | Dificuldade | Link  do Exercicio                                                                                    | Linguagem Usada | Codigo Exercicio
 |-----------------------------------------------------------|------------|-------------------------------------------------------------------------------------------|----------|---------|
-| Exemplo 1                                                 | Fácil      | [Link - Exemplo](https://www.urionlinejudge.com.br/judge/pt/problems/view/12345)       | JAVA | 0001
-| Exemplo 2                                                 | Médio      | [Link - Exemplo 2](https://www.urionlinejudge.com.br/judge/pt/problems/view/67890)       | C++ | 0002
-| Exemplo 3                                                 | Difícil    | [Link - Exemplo 3](https://www.urionlinejudge.com.br/judge/pt/problems/view/13579)       | PHP | 0003
+| [URI-1003](https://github.com/andreparelho/Competitive-Programing/tree/main/src/beecrowdUri/ex1003/Main.java)                                                | Fácil      | [Link](https://www.urionlinejudge.com.br/judge/en/problems/view/1003)       | JAVA | 0001
+| [URI-1004](https://github.com/andreparelho/Competitive-Programing/tree/main/src/beecrowdUri/ex1004/Main.java)                                                 | Fácil      | [Link](https://www.urionlinejudge.com.br/judge/en/problems/view/1004)       | JAVA | 0002
+| [URI-1005](https://github.com/andreparelho/Competitive-Programing/blob/main/src/beecrowdUri/ex1005/Main.java)                                                | Fácil    | [Link](https://www.urionlinejudge.com.br/judge/en/problems/view/1005)       | JAVA | 0003
+| [URI-1006](https://github.com/andreparelho/Competitive-Programing/blob/main/src/beecrowdUri/ex1006/Main.java)                                                | Fácil    | [Link](https://www.urionlinejudge.com.br/judge/en/problems/view/1006)       | JAVA | 0003
