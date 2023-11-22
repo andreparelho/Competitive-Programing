@@ -22,10 +22,12 @@ Ao utilizar este repositório, espero alcançar os seguintes objetivos:
 
 ## BeeCrowd (URI)
 
-| Solução                                                                                                       | Dificuldade | Link  do Exercicio                                                                                    | Linguagem Usada | Codigo Exercicio
-|---------------------------------------------------------------------------------------------------------------|------------|-------------------------------------------------------------------------------------------|----------|---------|
-| [URI-1003](https://github.com/andreparelho/Competitive-Programing/tree/main/src/beecrowdUri/ex1003/Main.java) | Fácil      | [Link](https://www.urionlinejudge.com.br/judge/en/problems/view/1003)       | JAVA | 1003
-| [URI-1004](https://github.com/andreparelho/Competitive-Programing/tree/main/src/beecrowdUri/ex1004/Main.java) | Fácil      | [Link](https://www.urionlinejudge.com.br/judge/en/problems/view/1004)       | JAVA | 1004
-| [URI-1005](https://github.com/andreparelho/Competitive-Programing/blob/main/src/beecrowdUri/ex1005/Main.java) | Fácil    | [Link](https://www.urionlinejudge.com.br/judge/en/problems/view/1005)       | JAVA | 1005
-| [URI-1006](https://github.com/andreparelho/Competitive-Programing/blob/main/src/beecrowdUri/ex1006/Main.java) | Fácil    | [Link](https://www.urionlinejudge.com.br/judge/en/problems/view/1006)       | JAVA | 1006
-| [URI-1007](https://github.com/andreparelho/Competitive-Programing/blob/main/src/beecrowdUri/ex1007/Main.java) | Fácil    | [Link](https://www.urionlinejudge.com.br/judge/en/problems/view/1007)       | JAVA | 1007
+| Solução                                                                                                       | Dificuldade | Link  do Exercicio                                                    | Linguagem Usada | Codigo Exercicio
+|---------------------------------------------------------------------------------------------------------------|------------|-----------------------------------------------------------------------|----------|---------|
+| [URI-1003](https://github.com/andreparelho/Competitive-Programing/tree/main/src/beecrowdUri/ex1003/Main.java) | Fácil      | [Link](https://www.urionlinejudge.com.br/judge/en/problems/view/1003) | JAVA | 1003
+| [URI-1004](https://github.com/andreparelho/Competitive-Programing/tree/main/src/beecrowdUri/ex1004/Main.java) | Fácil      | [Link](https://www.urionlinejudge.com.br/judge/en/problems/view/1004) | JAVA | 1004
+| [URI-1005](https://github.com/andreparelho/Competitive-Programing/blob/main/src/beecrowdUri/ex1005/Main.java) | Fácil    | [Link](https://www.urionlinejudge.com.br/judge/en/problems/view/1005) | JAVA | 1005
+| [URI-1006](https://github.com/andreparelho/Competitive-Programing/blob/main/src/beecrowdUri/ex1006/Main.java) | Fácil    | [Link](https://www.urionlinejudge.com.br/judge/en/problems/view/1006) | JAVA | 1006
+| [URI-1007](https://github.com/andreparelho/Competitive-Programing/blob/main/src/beecrowdUri/ex1007/Main.java) | Fácil    | [Link](https://www.urionlinejudge.com.br/judge/en/problems/view/1007) | JAVA | 1007
+| [URI-1008](https://github.com/andreparelho/Competitive-Programing/blob/main/src/beecrowdUri/ex1008/Main.java) | Fácil    | [Link](https://www.urionlinejudge.com.br/judge/en/problems/view/1008) | JAVA | 1008
+| [URI-1009](https://github.com/andreparelho/Competitive-Programing/blob/main/src/beecrowdUri/ex1009/Main.java) | Fácil    | [Link](https://www.urionlinejudge.com.br/judge/en/problems/view/1009) | JAVA | 1009
