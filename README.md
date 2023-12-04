@@ -36,3 +36,4 @@ Ao utilizar este repositório, espero alcançar os seguintes objetivos:
 | [URI-1012](https://github.com/andreparelho/Competitive-Programing/blob/main/src/beecrowdUri/ex1012/Main.java) | Fácil    | [Link](https://www.urionlinejudge.com.br/judge/en/problems/view/1012) | JAVA | 1012
 | [URI-1014](https://github.com/andreparelho/Competitive-Programing/blob/main/src/beecrowdUri/ex1014/Main.java) | Fácil    | [Link](https://www.urionlinejudge.com.br/judge/en/problems/view/1014) | JAVA | 1014
 | [URI-1015](https://github.com/andreparelho/Competitive-Programing/blob/main/src/beecrowdUri/ex1015/Main.java) | Fácil    | [Link](https://www.urionlinejudge.com.br/judge/en/problems/view/1015) | JAVA | 1015
+| [URI-1016](https://github.com/andreparelho/Competitive-Programing/blob/main/src/beecrowdUri/ex1016/Main.java) | Fácil    | [Link](https://www.urionlinejudge.com.br/judge/en/problems/view/1016) | JAVA | 1016
