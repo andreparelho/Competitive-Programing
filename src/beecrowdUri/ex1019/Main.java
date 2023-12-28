@@ -16,9 +16,9 @@ public class Main {
         return (seconds % 3600) / 60;
     }
 
-    public static double getSeconds(int seconds){
+    public static int getSeconds(int seconds){
         double secondsThisHours = secondsThisHour(seconds);
-        return secondsThisHours % 60;
+        return (int) (secondsThisHours % 60);
     }
 
     private static double secondsThisHour(int seconds){
@@ -34,7 +34,7 @@ public class Main {
 
         int minutes = secondsToMinutes(input);
 
-        double seconds = getSeconds(input);
+        int seconds = getSeconds(input);
 
         System.out.println(hours + ":" + minutes + ":" + (int) seconds);
     }
