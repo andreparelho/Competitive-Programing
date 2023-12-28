@@ -36,6 +36,6 @@ public class Main {
 
         int seconds = getSeconds(input);
 
-        System.out.println(hours + ":" + minutes + ":" + (int) seconds);
+        System.out.println(hours + ":" + minutes + ":" + seconds);
     }
 }
