@@ -44,7 +44,8 @@ Ao utilizar este repositório, espero alcançar os seguintes objetivos:
 
 ## NeetCode Roadmap
 
-| Solução                                                                                                                                              | Dificuldade | Link  do Exercicio                                                    | Linguagem Usada | Codigo Exercicio
-|------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----------------------------------------------------------------------|----------------|---------|
-| [Contains Duplicate](https://github.com/andreparelho/Competitive-Programing/tree/main/src/neetcodeRoadmap/arraysHashing/containsDuplicate/Main.java) | Fácil      | [Link](https://leetcode.com/problems/contains-duplicate/) | JAVA           | 217
-| [Valid Anagram](https://github.com/andreparelho/Competitive-Programing/tree/main/src/neetcodeRoadmap/arraysHashing/validAnagram/Main.java)  | Fácil      | [Link](https://leetcode.com/problems/valid-anagram/description/) | JAVA           | 242
+| Solução                                                                                                                                                  | Dificuldade | Link  do Exercicio                                        | Linguagem Usada | Codigo Exercicio
+|----------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----------------------------------------------------------|----------------|---------|
+| [Contains Duplicate](https://github.com/andreparelho/Competitive-Programing/tree/main/src/neetcodeRoadmap/arraysHashing/containsDuplicate/Solution.java) | Fácil      | [Link](https://leetcode.com/problems/contains-duplicate/) | JAVA           | 217
+| [Valid Anagram](https://github.com/andreparelho/Competitive-Programing/tree/main/src/neetcodeRoadmap/arraysHashing/validAnagram/Solution.java)           | Fácil      | [Link](https://leetcode.com/problems/valid-anagram/) | JAVA           | 242
+| [Two Sum](https://github.com/andreparelho/Competitive-Programing/tree/main/src/neetcodeRoadmap/arraysHashing/twoSum/Solution.java)                       | Fácil      | [Link](https://leetcode.com/problems/two-sum/) | JAVA           | 1
