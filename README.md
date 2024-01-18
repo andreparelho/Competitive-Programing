@@ -42,3 +42,8 @@ Ao utilizar este repositório, espero alcançar os seguintes objetivos:
 | [URI-1019](https://github.com/andreparelho/Competitive-Programing/blob/main/src/beecrowdUri/ex1019/Main.java) | Fácil    | [Link](https://www.urionlinejudge.com.br/judge/en/problems/view/1019) | JAVA           | 1019
 | [URI-1020](https://github.com/andreparelho/Competitive-Programing/blob/main/src/beecrowdUri/ex1020/Main.java) | Fácil    | [Link](https://www.urionlinejudge.com.br/judge/en/problems/view/1020) | JAVA           | 1020
 
+## NeetCode Roadmap
+
+| Solução                                                                                                                                                  | Dificuldade | Link  do Exercicio                                                    | Linguagem Usada | Codigo Exercicio
+|----------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----------------------------------------------------------------------|----------------|---------|
+| [Contains Duplicate](https://github.com/andreparelho/Competitive-Programing/tree/main/src/neetcodeRoadmap/arraysHashing/ex01ContainsDuplicate/Main.java) | Fácil      | [Link](https://leetcode.com/problems/contains-duplicate/) | JAVA           | 217
