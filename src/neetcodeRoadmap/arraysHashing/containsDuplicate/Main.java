@@ -1,4 +1,4 @@
-package neetcodeRoadmap.arraysHashing.ex01ContainsDuplicate;
+package neetcodeRoadmap.arraysHashing.containsDuplicate;
 
 import java.util.ArrayList;
 
