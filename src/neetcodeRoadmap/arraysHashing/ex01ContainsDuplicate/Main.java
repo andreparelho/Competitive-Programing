@@ -2,7 +2,7 @@ package neetcodeRoadmap.arraysHashing.ex01ContainsDuplicate;
 
 import java.util.ArrayList;
 
-public class ex001ContainsDuplicate {
+public class Main {
     public boolean containsDuplicate(int[] nums) {
         ArrayList<Integer> arrayList = new ArrayList<>();
 
