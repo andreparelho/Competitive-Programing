@@ -3,7 +3,7 @@ package neetcodeRoadmap.arraysHashing.validAnagram;
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class Main {
+public class Solution {
     public boolean isAnagram(String s, String t) {
         ArrayList<String> listS = new ArrayList<>();
         ArrayList<String> listT = new ArrayList<>();
