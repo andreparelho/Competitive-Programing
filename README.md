@@ -49,3 +49,9 @@ Ao utilizar este repositório, espero alcançar os seguintes objetivos:
 | [Contains Duplicate](https://github.com/andreparelho/Competitive-Programing/tree/main/src/neetcodeRoadmap/arraysHashing/containsDuplicate/Solution.java) | Fácil      | [Link](https://leetcode.com/problems/contains-duplicate/) | JAVA           | 217
 | [Valid Anagram](https://github.com/andreparelho/Competitive-Programing/tree/main/src/neetcodeRoadmap/arraysHashing/validAnagram/Solution.java)           | Fácil      | [Link](https://leetcode.com/problems/valid-anagram/) | JAVA           | 242
 | [Two Sum](https://github.com/andreparelho/Competitive-Programing/tree/main/src/neetcodeRoadmap/arraysHashing/twoSum/Solution.java)                       | Fácil      | [Link](https://leetcode.com/problems/two-sum/) | JAVA           | 1
+
+## Hacker Rank
+
+| Solução                                                                                                           | Dificuldade | Link  do Exercicio                                        | Linguagem Usada | Codigo Exercicio
+|-------------------------------------------------------------------------------------------------------------------|------------|-----------------------------------------------------------|----------------|---------|
+| [Array DS](https://github.com/andreparelho/Competitive-Programing/tree/main/src/hackerRank/arrayDs/Solution.java) | Fácil      | [Link](https://www.hackerrank.com/challenges/arrays-ds/problem?isFullScreen=true) | JAVA           | ???
